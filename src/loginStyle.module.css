@@ -1,0 +1,25 @@
+.myCard {
+    position: relative;
+    left: 35%;
+    margin-top: 10%;
+    width: 30%;
+    height: 30%;
+}
+
+.cardContent {
+    position: relative;
+    left: 25%;
+}
+
+.cardContent input {
+    width: 300px;
+}
+
+.cardActions {
+    justify-content: center;
+}
+
+.cardActions button:hover {
+    background-color: #282c34;
+    color: aliceblue;
+}

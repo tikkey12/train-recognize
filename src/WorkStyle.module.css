@@ -1,0 +1,40 @@
+.workArea {
+    position: relative;
+    left: 37%;
+}
+
+.fileButton {
+    position: relative;
+    left: 7%;
+}
+
+.uploadButton {
+    position: relative;
+    left: 4%;
+}
+
+.numberInput {
+    position: relative;
+    left: 1%;
+    width: 180px;
+}
+
+.fileInput {
+    display: none;
+}
+
+.workArea h1 {
+    position: relative;
+    left: 7%;
+    color: aliceblue;
+}
+
+.mainImage {
+    width: 400px;
+    height: 300px;
+}
+
+.cuttingImage {
+    width: 200px;
+    height: 100px;
+}
